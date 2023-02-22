@@ -7,7 +7,8 @@ Installation
 ------------
 
 1.  Clone this repository: `git clone https://github.com/antonovm/chartmogul-mrr-metrics-retrieval-script.git`
-2.  Install dependencies: `cd chartmogul-mrr-metrics-retrieval-script && npm install` or `cd chartmogul-mrr-metrics-retrieval-script && yarn`.
+2.  Switch to the project directory: `cd chartmogul-mrr-metrics-retrieval-script`
+2.  Install dependencies: `npm install` or `yarn`.
 3.  Create a `.env` file and set the `CHARTMOGUL_API_KEY` environment variable to your ChartMogul API key.
 
 Usage
