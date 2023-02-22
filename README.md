@@ -6,7 +6,7 @@ This script is built with Node.js and retrieves monthly recurring revenue (MRR) 
 Installation
 ------------
 
-1.  Clone this repository: `git clone https://github.com/<YOUR-USERNAME>/chartmogul-mrr-metrics-retrieval-script.git`.
+1.  Clone this repository: `git clone https://github.com/antonovm/chartmogul-mrr-metrics-retrieval-script.git`
 2.  Install dependencies: `cd chartmogul-mrr-metrics-retrieval-script && npm install` or `cd chartmogul-mrr-metrics-retrieval-script && yarn`.
 3.  Create a `.env` file and set the `CHARTMOGUL_API_KEY` environment variable to your ChartMogul API key.
 
